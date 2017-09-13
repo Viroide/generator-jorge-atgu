@@ -1,0 +1,16 @@
+{
+  "name": "generator-jorge-atgu",
+  "version": "0.0.1",
+  "description": "Jorge ATGU's default generator",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Jon E. Eguiluz",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^2.0.0"
+  }
+}
